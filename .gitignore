@@ -20,9 +20,6 @@ yarn-error.log*
 *.sln
 *.sw?
 
-# App configuration
-config.yml
-
 .drone.yml
 
 # Specific Agent file
