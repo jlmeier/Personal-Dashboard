@@ -153,6 +153,11 @@ services:
   - name: "Network"
     icon: "fas fa-network-wired"
     items:
+      - name: "AMP Panel"
+        logo: "assets/tools/AMP_Icon_White_Lg_Blend.webp"
+        subtitle: "(Only available on LAN)"
+        tag: "gaming"
+        url: "https://amp.local.meier.ninja/"
       - name: "Home Assistant"
         logo: "assets/tools/home-assistant.png"
         subtitle: ""
