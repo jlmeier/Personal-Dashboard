@@ -58,9 +58,9 @@ services:
     items:
       - name: "Microsoft 365"
         logo: "assets/tools/ms_office.png"
-        subtitle: "Office Online"
+        subtitle: "CCEU OneDrive"
         tag: "office"
-        url: "https://www.office.com/"
+        url: "https://cceucodecrafting-my.sharepoint.com/?source=waffle"
       - name: "Font Awesome"
         icon: "fab fa-font-awesome"
         subtitle: "Icon Gallery"
