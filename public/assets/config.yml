@@ -83,7 +83,7 @@ services:
         logo: "assets/tools/github.png"
         subtitle: "GitHub.com"
         tag: "git"
-        url: "https://github.com/CCEU-code-crafting"
+        url: "https://github.com/orgs/CCEU-code-crafting/repositories?q=archived%3Afalse"
       - name: "Cloud MongoDB"
         logo: "assets/tools/mongodb.png"
         subtitle: "Atlas"
