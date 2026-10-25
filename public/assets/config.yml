@@ -182,7 +182,7 @@ services:
         tag: "logging"
         url: "https://cceu-code-crafting.sentry.io/"
       - name: "Status Page"
-        logo: "assets/tools/jira.png"
+        logo: "assets/tools/status-page.png"
         subtitle: "Incident Management"
         tag: "status"
         url: "https://manage.statuspage.io/pages/06htz31f31qy/"
